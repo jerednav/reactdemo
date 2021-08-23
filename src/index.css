@@ -1,11 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 * {
     box-sizing: border-box;
   }
   
   body {
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin: 3rem;
     background-color: #dfdfdf;
+    margin: 0;
   }
   
   h1, h2 {
