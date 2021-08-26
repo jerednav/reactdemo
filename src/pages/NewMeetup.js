@@ -14,9 +14,10 @@ function NewMeetupPage(){
                 'Content-Type': 'application/json'            }
         }
         
-        ) .then(() => {
+        ).then(() => {
             history.replace('/')
-        });
+        }
+        );
 
     }
 
